@@ -33,6 +33,7 @@ List the first name, last name, and hire date for the employees who were hired i
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
+![Screenshot 2023-11-14 at 10 49 05 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/196ba391-b46c-494f-a640-a542a24b3c2a)
 
 List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
