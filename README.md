@@ -25,6 +25,7 @@ This Challenge is divided into three parts:
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
+![Screenshot 2023-11-14 at 10 49 36 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/2a0ef9c7-bed1-4872-96b9-ac273cd71445)
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
 
