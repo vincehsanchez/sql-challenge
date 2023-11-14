@@ -41,6 +41,7 @@ List the department number for each employee along with that employee’s employ
 
 List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
+![Screenshot 2023-11-14 at 10 48 37 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/36f53a21-39bd-4c96-9811-c133ee263861)
 
 List each employee in the Sales department, including their employee number, last name, and first name.
 
