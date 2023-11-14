@@ -39,8 +39,22 @@ where e.first_name = 'Hercules' --works!
 and last_name like 'B%';     --https://stackoverflow.com/questions/1579816/need-a-query-that-returns-every-field-that-contains-a-specified-letter
 
 ----------------List each employee in the Sales department, including their employee number, last name, and first name.----------------------
-department_name, employee_number
-----------------List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.----------------------
+select e.employee_number, e.last_name, e.first_name
+from employees as e
+join department_employees as d_m
+on (e.employee_number = d_m.employee_number)
+join departments as d 
+on (d_m.department_number = d.department_number)
+where d.department_name = 'Sales'; --works!
 
+----------------List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.----------------------
+select e.employee_number, e.last_name, e.first_name, d.department_name
+from employees as e
+join department_employees as d_m
+on (e.employee_number = d_m.employee_number)
+join departments as d 
+on (d_m.department_number = d.department_number)
+where d.department_name = 'Sales'
+and where d.department_name = 'Developement';
 ----------------List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).---------------------------
 
