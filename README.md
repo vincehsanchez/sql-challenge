@@ -7,6 +7,8 @@ This Challenge is divided into three parts:
 2. data engineering
 3. data analysis
 
+**NOTE: EACH SEARCH QUERY SHOULD BE RUN INDIVIDUALLY IN ORDER...WHEN IMPORTING DATA PLEASE IMPORT RESPECTIVE TO ORDER OF EACH SEARCH QUERY.**
+
 ### Data Modeling
 
 1. Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
