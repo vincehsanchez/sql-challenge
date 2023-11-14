@@ -49,6 +49,7 @@ List each employee in the Sales department, including their employee number, las
 
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+![Screenshot 2023-11-14 at 10 48 06 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/45f53eed-3208-4303-8959-7df43f99ef4a)
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
