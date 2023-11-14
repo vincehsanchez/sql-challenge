@@ -29,6 +29,7 @@ List the employee number, last name, first name, sex, and salary of each employe
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
 
+![Screenshot 2023-11-14 at 10 49 19 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/cc0ea9f7-2da7-4795-8368-854576a4cb9c)
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
