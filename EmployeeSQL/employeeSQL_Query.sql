@@ -55,6 +55,12 @@ on (e.employee_number = d_m.employee_number)
 join departments as d 
 on (d_m.department_number = d.department_number)
 where d.department_name = 'Sales'
-and where d.department_name = 'Developement';
+or d.department_name = 'Development'; --check spelling!
 ----------------List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).---------------------------
+select e.last_name,
+count(e.last_name) as same_last_name_count
+from employees as e
+group by e.last_name
+order by e.last_name DESC;   --https://www.w3schools.com/sql/sql_orderby.asp
+--need to rename 'count'
 
