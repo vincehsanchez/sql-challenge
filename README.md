@@ -37,6 +37,7 @@ List the manager of each department along with their department number, departme
 
 List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
+![Screenshot 2023-11-14 at 10 48 50 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/5d781622-9d76-474c-a823-e00f1895c940)
 
 List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
