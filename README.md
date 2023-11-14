@@ -45,6 +45,7 @@ List first name, last name, and sex of each employee whose first name is Hercule
 
 List each employee in the Sales department, including their employee number, last name, and first name.
 
+![Screenshot 2023-11-14 at 10 48 19 AM](https://github.com/vincehsanchez/sql-challenge/assets/141890646/708d321b-ab5c-4289-9b37-715f7e95bd39)
 
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
